@@ -1,0 +1,13 @@
+# ninja log v5
+1663	1896	1680458120064554819	trash1	1d42723eba52c7ef
+1	156	1680458118327909263	trash1_autogen/timestamp	30d2f1ea2bd2874c
+1	156	1680458118327909263	trash1_autogen/mocs_compilation.cpp	30d2f1ea2bd2874c
+0	132	1680458232439856275	Lab1_autogen/timestamp	8e25ab79b4f13083
+0	132	1680458232439856275	Lab1_autogen/mocs_compilation.cpp	8e25ab79b4f13083
+0	132	1680458232439856275	/home/kayvee/Desktop/C++/Graphics/Color_Qt_App/cmake-build-debug/Lab1_autogen/timestamp	8e25ab79b4f13083
+0	132	1680458232439856275	/home/kayvee/Desktop/C++/Graphics/Color_Qt_App/cmake-build-debug/Lab1_autogen/mocs_compilation.cpp	8e25ab79b4f13083
+133	640	1680458232949850083	CMakeFiles/Lab1.dir/color_structs.cpp.o	6da29072069d345a
+132	1358	1680458233669841340	CMakeFiles/Lab1.dir/Lab1_autogen/mocs_compilation.cpp.o	5f8d3eb113f47491
+132	1479	1680458233789839884	CMakeFiles/Lab1.dir/main.cpp.o	ea392aad66d15cdf
+132	1654	1680458233963171113	CMakeFiles/Lab1.dir/mainwindow.cpp.o	81a5980fe6187292
+1654	1890	1680458234199834905	Lab1	900d77e9d65f403a

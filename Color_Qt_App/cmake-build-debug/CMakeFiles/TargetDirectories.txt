@@ -1,0 +1,5 @@
+/home/kayvee/Desktop/C++/Graphics/Color_Qt_App/cmake-build-debug/CMakeFiles/Lab1.dir
+/home/kayvee/Desktop/C++/Graphics/Color_Qt_App/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kayvee/Desktop/C++/Graphics/Color_Qt_App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kayvee/Desktop/C++/Graphics/Color_Qt_App/cmake-build-debug/CMakeFiles/Lab1_autogen_timestamp_deps.dir
+/home/kayvee/Desktop/C++/Graphics/Color_Qt_App/cmake-build-debug/CMakeFiles/Lab1_autogen.dir
