@@ -1,0 +1,3 @@
+/home/kayvee/Desktop/C++/Graphics/Cube/cmake-build-debug/CMakeFiles/Cube.dir
+/home/kayvee/Desktop/C++/Graphics/Cube/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kayvee/Desktop/C++/Graphics/Cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
